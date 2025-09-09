@@ -62,7 +62,6 @@ Este repositorio incluye soluciones a 20 problemas que ilustran diferentes aplic
 Cada problema incluye:
 - Descripción del problema
 - Implementación en Python
-- Análisis de complejidad temporal y espacial
 - Pruebas y ejemplos de uso
 
 ## Requisitos
